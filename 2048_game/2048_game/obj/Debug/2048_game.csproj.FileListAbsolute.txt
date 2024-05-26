@@ -1,0 +1,56 @@
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.exe.config
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.exe
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.pdb
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Properties.Resources.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.exe
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.pdb
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field3x3_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field4x4_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field5x5_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Menu.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.History_game.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation1.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation2.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПІ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation3.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.exe.config
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.exe
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.pdb
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field3x3_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field4x4_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field5x5_Form.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Menu.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.History_game.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation1.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation2.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation3.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Properties.Resources.resources
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.exe
+C:\Users\vital\OneDrive\Desktop\ЖДПУ\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.pdb
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.exe.config
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.exe
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\bin\Debug\2048_game.pdb
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.AssemblyReference.cache
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field_Form.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field3x3_Form.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field4x4_Form.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Field5x5_Form.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Menu.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.History_game.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation1.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation2.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Explanation3.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\_2048_game.Properties.Resources.resources
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.GenerateResource.cache
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.csproj.CoreCompileInputs.cache
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.exe
+D:\Учоба\ЖДПУ 1 Курс\2 семестр\Курсова робота\2048_game\2048_game\obj\Debug\2048_game.pdb
